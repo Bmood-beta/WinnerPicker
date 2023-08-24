@@ -4,7 +4,7 @@ This algorithm takes an input from user and provides an output with winners pick
 the input file is rewritten back without winners for a redraw.
 
 # Create an application
-To create a standalone executable using PyInstaller, open a terminal and navigate to the directory containing your script. Then run the following command:
+To create a standalone executable using PyInstaller, open a terminal and navigate to the directory containing WinnerPicker.py and run the following command:
 
     pyinstaller --onefile WinnerPicker.py
 
